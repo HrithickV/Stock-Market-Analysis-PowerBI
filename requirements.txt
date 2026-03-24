@@ -1,0 +1,11 @@
+# Software Requirements
+Power BI Desktop (Version: December 2023 or later)
+
+# Data Processing (Python - if used for YAML conversion)
+pandas
+pyyaml
+openpyxl
+
+# File Formats
+.pbix (Power BI Project)
+.yaml / .csv (Source Data)
